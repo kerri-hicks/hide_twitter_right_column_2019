@@ -2,7 +2,7 @@
 
 A Chrome extension that hides the right column on the Twitter website.
 
-I find the right-side column distracting, so I made this little extension that hides the right column. It'll work until Twitter changes its HTML structure.
+I find the right-side column distracting, so I made this little extension that hides the right column. It'll work until Twitter changes its HTML structure. Note: As of now, this also hides the search bar. I'll change that at some point.
 
 No license needed, public domain.
 
