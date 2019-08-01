@@ -10,7 +10,7 @@ Go to chrome://extensions/ in your browser, turn on Developer Mode (toggle switc
 
 1) If you want to load it without packing it, use the "Load Unpacked" button, and load the "retwitter" directory.
 
-2) If you want to create your own .crx file, choose the "Pack Extension" button and load the "retwitter" directory. Then drag the .crx file to the extensions browser window.
+2) If you want to create your own .crx file, choose the "Pack Extension" button and load the "retwitter" directory. Then drag the .crx file to the extensions browser window. (This may not work in Windows.)
 
  You're done, the extension will show up in Chrome as a white H in a grey box.
  It seems to work in Vivaldi, too, if you use the "Load Unpacked" method, but nothing shows up in the browser Extensions bar.
